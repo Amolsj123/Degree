@@ -1,0 +1,19 @@
+.Main{
+padding:20px;
+display:flex;
+background-color:#4d4dff;
+}
+.left{
+margin :150px;
+background-color:#8080ff;
+padding:100px;
+}
+
+.right{
+margin:150px;
+padding:100px;
+background-color:#8080ff;
+}
+.bb{
+font-size:15px;
+}
